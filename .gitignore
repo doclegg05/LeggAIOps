@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+build/
+.firecrawl/
+.env*
+!.env.example
+.superpowers/
+output/
+.DS_Store
+*.log
+.vercel
+
+# Legacy / reference-only — kept on disk for AGENTS.md reference but not deployed
+Legg AI Ops Front-end Design/
+Legg AI Ops OS/
+docs/
+assets/
